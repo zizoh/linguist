@@ -357,8 +357,15 @@ PageTranslatorTab.init = async ({ translatorFeatures, config }): Promise<InitDat
 			: translatorFeatures.supportedLanguages[0];
 	}
 
+	const pageTranslationStorage = new PageTranslationStorage();
 	if (to === null) {
-		to = config.language;
+		try {
+			const data = await pageTranslationStorage.getData();
+			to = data.lastFrom || config.language;
+		} catch (error) {
+			console.error(error);
+			to = config.language;
+		}
 	}
 
 	// Set preferences for host and for language
@@ -370,7 +377,6 @@ PageTranslatorTab.init = async ({ translatorFeatures, config }): Promise<InitDat
 		mapLanguagePreferences,
 	);
 
-	const pageTranslationStorage = new PageTranslationStorage();
 	const isShowOptions = await pageTranslationStorage
 		.getData()
 		.then((data) => data.optionsSpoilerState);

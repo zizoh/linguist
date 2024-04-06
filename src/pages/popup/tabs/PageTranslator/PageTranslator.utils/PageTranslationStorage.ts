@@ -5,6 +5,7 @@ import { tryDecode, type } from '../../../../../lib/types';
 
 const storageSignature = type.type({
 	optionsSpoilerState: type.boolean,
+	lastFrom: type.string,
 });
 
 type PageTranslationData = TypeOf<typeof storageSignature>;
@@ -17,6 +18,7 @@ export class PageTranslationStorage {
 	 */
 	private readonly defaultData: PageTranslationData = {
 		optionsSpoilerState: false,
+		lastFrom: 'en',
 	};
 
 	public getData = async () => {

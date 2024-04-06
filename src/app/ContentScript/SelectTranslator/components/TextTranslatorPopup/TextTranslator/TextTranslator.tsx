@@ -13,6 +13,7 @@ import { useTTS } from '../../../../../../lib/hooks/useTTS';
 import { useTTSLanguages } from '../../../../../../lib/hooks/useTTSLanguages';
 import { detectLanguage, getMessage } from '../../../../../../lib/language';
 import { TranslatorFeatures } from '../../../../../../pages/popup/layout/PopupWindow';
+import { PageTranslationStorage } from '../../../../../../pages/popup/tabs/PageTranslator/PageTranslator.utils/PageTranslationStorage';
 import { getTranslatorFeatures } from '../../../../../../requests/backend/getTranslatorFeatures';
 import { getUserLanguagePreferences } from '../../../../../../requests/backend/getUserLanguagePreferences';
 import { addTranslationHistoryEntry } from '../../../../../../requests/backend/history/addTranslationHistoryEntry';
@@ -135,6 +136,7 @@ export const TextTranslator: FC<TextTranslatorComponentProps> = ({
 
 	// Init
 	const isUnmount = useRef(false);
+	const pageTranslationStorage = useMemo(() => new PageTranslationStorage(), []);
 	useEffect(() => {
 		getTranslatorFeatures().then(
 			async ({ supportedLanguages, isSupportAutodetect }) => {
@@ -189,7 +191,12 @@ export const TextTranslator: FC<TextTranslatorComponentProps> = ({
 							// Detect language from text or use `auto` if support
 							getLang() {
 								// Set detected lang if found
-								if (detectedLanguage !== null) return detectedLanguage;
+								if (detectedLanguage !== null) {
+									pageTranslationStorage.updateData({
+										lastFrom: detectedLanguage,
+									});
+									return detectedLanguage;
+								}
 
 								// Set `auto` if support and enable
 								if (isUseAutoForDetectLang && isSupportAutodetect)

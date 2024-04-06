@@ -1,3 +1,5 @@
+import browser from 'webextension-polyfill';
+
 import { RecordValues } from '../../../../../types/utils';
 
 import { languagePreferenceOptions, sitePreferenceOptions } from '../PageTranslator';
@@ -76,3 +78,16 @@ export const mapLanguagePreferences = (state: boolean | null) =>
 		: state
 			? languagePreferenceOptions.ENABLE
 			: languagePreferenceOptions.DISABLE_FOR_ALL;
+
+export const getLastSelectedTextLangauge = async (configLanguage: string) => {
+	let language = configLanguage;
+	try {
+		const data = await browser.storage.local.get('SelectTranslator');
+		if (data.SelectTranslator) {
+			language = data.SelectTranslator.lastFrom;
+		}
+	} catch (error) {
+		console.error(error);
+	}
+	return language;
+};

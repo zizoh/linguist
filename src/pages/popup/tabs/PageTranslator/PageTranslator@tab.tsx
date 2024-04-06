@@ -24,6 +24,7 @@ import {
 } from './PageTranslator';
 import { PageTranslationStorage } from './PageTranslator.utils/PageTranslationStorage';
 import {
+	getLastSelectedTextLangauge,
 	getTranslatePreferencesForSite,
 	mapLanguagePreferences,
 } from './PageTranslator.utils/utils';
@@ -358,7 +359,7 @@ PageTranslatorTab.init = async ({ translatorFeatures, config }): Promise<InitDat
 	}
 
 	if (to === null) {
-		to = config.language;
+		to = await getLastSelectedTextLangauge(config.language);
 	}
 
 	// Set preferences for host and for language

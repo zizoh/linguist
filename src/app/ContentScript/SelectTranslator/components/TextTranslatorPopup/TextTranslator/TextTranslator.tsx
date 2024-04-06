@@ -189,7 +189,16 @@ export const TextTranslator: FC<TextTranslatorComponentProps> = ({
 							// Detect language from text or use `auto` if support
 							getLang() {
 								// Set detected lang if found
-								if (detectedLanguage !== null) return detectedLanguage;
+								if (detectedLanguage !== null) {
+									browser.storage.local
+										.set({
+											SelectTranslator: {
+												lastFrom: detectedLanguage,
+											},
+										})
+										.catch(console.error);
+									return detectedLanguage;
+								}
 
 								// Set `auto` if support and enable
 								if (isUseAutoForDetectLang && isSupportAutodetect)

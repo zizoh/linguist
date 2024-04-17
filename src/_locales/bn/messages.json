@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "চীনা"
 	},
+	"langCode_zh_CN": {
+		"message": "চীনা (সরলীকৃত)"
+	},
+	"langCode_zh_HK": {
+		"message": "চীনা (হংকং)"
+	},
+	"langCode_zh_TW": {
+		"message": "চীনা (ঐতিহ্যবাহী)"
+	},
 	"langCode_zu": {
 		"message": "জুলু"
 	}

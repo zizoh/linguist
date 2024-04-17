@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "சீனம்"
 	},
+	"langCode_zh_CN": {
+		"message": "சீன மொழி (எளிதாக்கப்பட்டது)"
+	},
+	"langCode_zh_HK": {
+		"message": "சீன மொழி (ஹாங்காங்)"
+	},
+	"langCode_zh_TW": {
+		"message": "சீன மொழி (பாரம்பரிய)"
+	},
 	"langCode_zu": {
 		"message": "ஜுலு"
 	}

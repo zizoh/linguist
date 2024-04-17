@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "Xinès"
 	},
+	"langCode_zh_CN": {
+		"message": "Xinès (Simplificat)"
+	},
+	"langCode_zh_HK": {
+		"message": "Xinès (Hong Kong)"
+	},
+	"langCode_zh_TW": {
+		"message": "Xinès (Tradicional)"
+	},
 	"langCode_zu": {
 		"message": "Zulu"
 	}

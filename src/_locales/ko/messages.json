@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "중국어"
 	},
+	"langCode_zh_CN": {
+		"message": "중국어 (간체)"
+	},
+	"langCode_zh_HK": {
+		"message": "중국어 (홍콩)"
+	},
+	"langCode_zh_TW": {
+		"message": "중국어 (번체)"
+	},
 	"langCode_zu": {
 		"message": "줄루어"
 	}

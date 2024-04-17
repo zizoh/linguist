@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "Hiina"
 	},
+	"langCode_zh_CN": {
+		"message": "Hiina (lihtsustatud)"
+	},
+	"langCode_zh_HK": {
+		"message": "Hiina (Hongkong)"
+	},
+	"langCode_zh_TW": {
+		"message": "Hiina (traditsiooniline)"
+	},
 	"langCode_zu": {
 		"message": "Suulu"
 	}

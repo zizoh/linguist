@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "ചൈനീസ്"
 	},
+	"langCode_zh_CN": {
+		"message": "ചൈനീസ് (ലളിതമാക്കിയത്)"
+	},
+	"langCode_zh_HK": {
+		"message": "ചൈനീസ് (ഹോങ്കോങ്ങ്)"
+	},
+	"langCode_zh_TW": {
+		"message": "ചൈനീസ് (പാരമ്പര്യമായ)"
+	},
 	"langCode_zu": {
 		"message": "സുലു"
 	}

@@ -1,447 +1,447 @@
 {
 	"common_action_addToDictionary": {
-		"message": "Add translation to dictionary"
+		"message": "将翻译添加到字典"
 	},
 	"common_action_removeFromDictionary": {
-		"message": "Remove translation from dictionary"
+		"message": "从字典中删除翻译"
 	},
 	"common_bgUnavailable": {
-		"message": "Background script is unavailable"
+		"message": "背景脚本不可用"
 	},
 	"common_cancel": {
-		"message": "Cancel"
+		"message": "取消"
 	},
 	"common_close": {
-		"message": "Close"
+		"message": "关闭"
 	},
 	"common_copy": {
-		"message": "Copy"
+		"message": "复制"
 	},
 	"common_error": {
-		"message": "Error"
+		"message": "错误"
 	},
 	"common_offlineTranslator": {
-		"message": "$1 - Offline translator"
+		"message": "$1 - 离线翻译器"
 	},
 	"common_retry": {
-		"message": "Retry"
+		"message": "重试"
 	},
 	"common_translate": {
-		"message": "Translate"
+		"message": "翻译"
 	},
 	"component_hotkey_placeholder": {
-		"message": "Click to record hotkeys"
+		"message": "点击以记录热键"
 	},
 	"component_hotkey_recordPlaceholder": {
-		"message": "Press keys"
+		"message": "按键"
 	},
 	"component_hotkey_resetButton": {
-		"message": "Reset"
+		"message": "重置"
 	},
 	"contextMenu_disablePageTranslation": {
-		"message": "Disable page translation"
+		"message": "禁用页面翻译"
 	},
 	"contextMenu_translatePage": {
-		"message": "Translate page"
+		"message": "翻译页面"
 	},
 	"contextMenu_translateSelectedText": {
-		"message": "Translate selected text"
+		"message": "翻译选定的文本"
 	},
 	"dictionaryButton_add": {
-		"message": "Add to dictionary"
+		"message": "添加到字典"
 	},
 	"dictionaryButton_delete": {
-		"message": "Delete from dictionary"
+		"message": "从字典中删除"
 	},
 	"dictionary_button_export": {
-		"message": "Export"
+		"message": "导出"
 	},
 	"dictionary_button_removeAll": {
-		"message": "Remove all"
+		"message": "全部删除"
 	},
 	"dictionary_deleteAll": {
-		"message": "Are you sure about deleting ALL translations in the dictionary?"
+		"message": "您确定要删除字典中的所有翻译吗？"
 	},
 	"dictionary_deleteConfirmation": {
-		"message": "Are you sure about deleting this translation?"
+		"message": "您确定要删除此翻译吗？"
 	},
 	"dictionary_description": {
-		"message": "Keep your translations in the dictionary to find them later"
+		"message": "将您的翻译保存在字典中，以便以后查找"
 	},
 	"dictionary_emptyDictionary": {
-		"message": "Dictionary is empty. Start filling it while translating some text"
+		"message": "字典为空。开始翻译一些文本进行填充"
 	},
 	"dictionary_filter_from": {
-		"message": "From"
+		"message": "从"
 	},
 	"dictionary_filter_to": {
-		"message": "To"
+		"message": "到"
 	},
 	"dictionary_message_deleteAll_success": {
-		"message": "All translations were removed"
+		"message": "所有翻译已被删除"
 	},
 	"dictionary_notFoundEntries": {
-		"message": "Translations matching these filters not found"
+		"message": "未找到符合这些过滤器的翻译"
 	},
 	"dictionary_pageTitle": {
-		"message": "Dictionary"
+		"message": "字典"
 	},
 	"dictionary_resetFilters": {
-		"message": "reset filters"
+		"message": "重置过滤器"
 	},
 	"dictionary_searchPlaceholder": {
-		"message": "Search by text"
+		"message": "按文本搜索"
 	},
 	"editorWindow_close": {
-		"message": "Close"
+		"message": "关闭"
 	},
 	"editorWindow_data_code": {
-		"message": "Code"
+		"message": "代码"
 	},
 	"editorWindow_data_name": {
-		"message": "Name"
+		"message": "名称"
 	},
 	"editorWindow_message_invalidName": {
-		"message": "Name must contain at least one symbol"
+		"message": "名称必须包含至少一个符号"
 	},
 	"editorWindow_save": {
-		"message": "Save"
+		"message": "保存"
 	},
 	"ext_description": {
-		"message": "Pages and texts translation, dictionary, history, offline and custom translators"
+		"message": "页面和文本翻译，字典，历史，离线和自定义翻译器"
 	},
 	"ext_name": {
-		"message": "Linguist - web pages translator"
+		"message": "语言学家 - 网页翻译器"
 	},
 	"history_control_selectEntry": {
-		"message": "Select entry"
+		"message": "选择条目"
 	},
 	"history_controls_clearHistory": {
-		"message": "Clear history"
+		"message": "清除历史记录"
 	},
 	"history_controls_deleteSelected": {
-		"message": "Delete selected"
+		"message": "删除所选"
 	},
 	"history_controls_selectAll": {
-		"message": "Select all translations"
+		"message": "选择所有翻译"
 	},
 	"history_message_clearHistoryConfirmation": {
-		"message": "Are you sure to clear history? All entries will be removed"
+		"message": "您确定要清除历史记录吗？所有条目将被删除"
 	},
 	"history_message_deleteEntryConfirmation": {
-		"message": "Are you sure about deleting this entry?"
+		"message": "您确定要删除此条目吗？"
 	},
 	"history_message_deleteSelectedEntriesConfirmation": {
-		"message": "Are you sure to delete selected entries ($1)?"
+		"message": "您确定要删除所选条目 ($1) 吗？"
 	},
 	"history_message_emptyEntries": {
-		"message": "History clear"
+		"message": "历史记录清空"
 	},
 	"history_message_entriesNotFound": {
-		"message": "No translations found that satisfy the filter"
+		"message": "未找到满足过滤器的翻译"
 	},
 	"history_pageTitle": {
-		"message": "History"
+		"message": "历史记录"
 	},
 	"history_searchPlaceholder": {
-		"message": "Search by text"
+		"message": "按文本搜索"
 	},
 	"inlineTranslator_showOriginalText": {
-		"message": "Show original text"
+		"message": "显示原文"
 	},
 	"lang_change": {
-		"message": "Change language"
+		"message": "更改语言"
 	},
 	"lang_detect": {
-		"message": "Auto detect"
+		"message": "自动检测"
 	},
 	"lang_select": {
-		"message": "Select language"
+		"message": "选择语言"
 	},
 	"lang_swap": {
-		"message": "Swap languages"
+		"message": "交换语言"
 	},
 	"message_askResetConfig": {
-		"message": "Reset settings?"
+		"message": "重置设置？"
 	},
 	"message_cacheFlushed": {
-		"message": "The cache is cleared"
+		"message": "缓存已清除"
 	},
 	"message_changesSaved": {
-		"message": "Changes saved"
+		"message": "更改已保存"
 	},
 	"message_error": {
-		"message": "Error"
+		"message": "错误"
 	},
 	"message_errorOfTranslate": {
-		"message": "Translation error"
+		"message": "翻译错误"
 	},
 	"message_serviceRequiredKey": {
-		"message": "Service requires a key"
+		"message": "服务需要密钥"
 	},
 	"message_translateOfText": {
-		"message": "Translated"
+		"message": "已翻译"
 	},
 	"message_unknownError": {
-		"message": "Unknown error"
+		"message": "未知错误"
 	},
 	"pageTranslator_alwaysTranslateLang": {
-		"message": "Always translate this language"
+		"message": "始终翻译此语言"
 	},
 	"pageTranslator_commonPreferences_autoTranslate_disable": {
-		"message": "Disable"
+		"message": "禁用"
 	},
 	"pageTranslator_commonPreferences_autoTranslate_disableForAll": {
-		"message": "Disable for all sites"
+		"message": "对所有网站禁用"
 	},
 	"pageTranslator_commonPreferences_autoTranslate_enable": {
-		"message": "Enable"
+		"message": "启用"
 	},
 	"pageTranslator_commonPreferences_title": {
-		"message": "Common preferences for this language"
+		"message": "此语言的常见偏好"
 	},
 	"pageTranslator_option_autoTranslate": {
-		"message": "Auto translate"
+		"message": "自动翻译"
 	},
 	"pageTranslator_showOptions": {
-		"message": "Show options"
+		"message": "显示选项"
 	},
 	"pageTranslator_showOriginal": {
-		"message": "Show original"
+		"message": "显示原文"
 	},
 	"pageTranslator_sitePreferences_autoTranslate_always": {
-		"message": "Always translate"
+		"message": "始终翻译"
 	},
 	"pageTranslator_sitePreferences_autoTranslate_alwaysForThisLang": {
-		"message": "Always translate for this language"
+		"message": "始终为此语言翻译"
 	},
 	"pageTranslator_sitePreferences_autoTranslate_default": {
-		"message": "Use common rules"
+		"message": "使用常规规则"
 	},
 	"pageTranslator_sitePreferences_autoTranslate_defaultForThisLang": {
-		"message": "Use common rules for this language"
+		"message": "使用此语言的常规规则"
 	},
 	"pageTranslator_sitePreferences_autoTranslate_never": {
-		"message": "Never translate"
+		"message": "永不翻译"
 	},
 	"pageTranslator_sitePreferences_autoTranslate_neverForThisLang": {
-		"message": "Never translate for this language"
+		"message": "永不为此语言翻译"
 	},
 	"pageTranslator_sitePreferences_title": {
-		"message": "Preferences for"
+		"message": "偏好"
 	},
 	"pageTranslator_translatePage": {
-		"message": "Translate page"
+		"message": "翻译页面"
 	},
 	"pageTranslator_translationReport": {
-		"message": "Translation report"
+		"message": "翻译报告"
 	},
 	"pageTranslator_translationReport_queue": {
-		"message": "Queue"
+		"message": "队列"
 	},
 	"pageTranslator_translationReport_reject": {
-		"message": "Errors"
+		"message": "错误"
 	},
 	"pageTranslator_translationReport_resolve": {
-		"message": "Translated"
+		"message": "已翻译"
 	},
 	"popup_tabIdNotFound": {
-		"message": "Tab \"$1\" is not found"
+		"message": "找不到标签 \"$1\""
 	},
 	"popup_tab_translatePage": {
-		"message": "Page translation"
+		"message": "页面翻译"
 	},
 	"popup_tab_translateText": {
-		"message": "Text translation"
+		"message": "文本翻译"
 	},
 	"settings_button_cancel": {
-		"message": "Cancel"
+		"message": "取消"
 	},
 	"settings_button_export": {
-		"message": "Export config"
+		"message": "导出配置"
 	},
 	"settings_button_import": {
-		"message": "Import config"
+		"message": "导入配置"
 	},
 	"settings_button_reset": {
-		"message": "Reset config"
+		"message": "重置配置"
 	},
 	"settings_button_saveChanges": {
-		"message": "Save changes"
+		"message": "保存更改"
 	},
 	"settings_message_clearCache_success": {
-		"message": "Cache is cleared"
+		"message": "缓存已清除"
 	},
 	"settings_message_common_invalidValueType": {
-		"message": "Invalid value"
+		"message": "无效的值"
 	},
 	"settings_message_importConfig_invalidFile": {
-		"message": "File for import can't be handled"
+		"message": "无法处理用于导入的文件"
 	},
 	"settings_message_importConfig_success": {
-		"message": "Import done"
+		"message": "导入完成"
 	},
 	"settings_message_resetConfig_confirm": {
-		"message": "Do you want to reset the settings?"
+		"message": "您想要重置设置吗？"
 	},
 	"settings_message_resetConfig_success": {
-		"message": "Settings reset"
+		"message": "设置已重置"
 	},
 	"settings_message_saveChanges_success": {
-		"message": "Changes saved"
+		"message": "更改已保存"
 	},
 	"settings_option_appIcon": {
-		"message": "Extension icon"
+		"message": "扩展图标"
 	},
 	"settings_option_appIcon_desc": {
-		"message": "When the dynamic icon is selected, colors will be adapted to the browser theme"
+		"message": "选择动态图标时，颜色将适应浏览器主题"
 	},
 	"settings_option_appIcon_item_auto": {
-		"message": "Dynamic"
+		"message": "动态"
 	},
 	"settings_option_appIcon_item_color": {
-		"message": "Color"
+		"message": "颜色"
 	},
 	"settings_option_appIcon_item_dark": {
-		"message": "Dark"
+		"message": "暗色"
 	},
 	"settings_option_appIcon_item_light": {
-		"message": "Light"
+		"message": "亮色"
 	},
 	"settings_option_cache": {
-		"message": "Cache"
+		"message": "缓存"
 	},
 	"settings_option_cache_clear": {
-		"message": "Clear cache"
+		"message": "清除缓存"
 	},
 	"settings_option_cache_clear_desc": {
-		"message": "Remove cache if you have translation artifacts or need to remove secrets"
+		"message": "如果您有翻译错误或需要删除秘密，请删除缓存"
 	},
 	"settings_option_cache_enable": {
-		"message": "Enable cache"
+		"message": "启用缓存"
 	},
 	"settings_option_cache_enable_desc": {
-		"message": "When cache is enabled, translations that have been translated once will be available immediately, even without internet"
+		"message": "启用缓存后，一旦翻译过的翻译将立即可用，即使没有互联网"
 	},
 	"settings_option_cache_ignoreCase": {
-		"message": "Case insensitive"
+		"message": "不区分大小写"
 	},
 	"settings_option_cache_ignoreCase_desc": {
-		"message": "When enabled, translations from cache will be used with non-exact matches, which may cause translation artifacts"
+		"message": "启用后，将使用非精确匹配的缓存翻译，这可能会导致翻译错误"
 	},
 	"settings_option_commonSettings": {
-		"message": "Common settings"
+		"message": "常规设置"
 	},
 	"settings_option_customTranslatorModule": {
-		"message": "Custom translators"
+		"message": "自定义翻译器"
 	},
 	"settings_option_customTranslatorModule_desc": {
-		"message": "You can add custom translators for your favorite translation services. Read more and find modules in the <slot id=docs>custom translators documentation</slot>."
+		"message": "您可以为您喜欢的翻译服务添加自定义翻译器。在<slot id=docs>自定义翻译器文档</slot>中阅读更多并找到模块。"
 	},
 	"settings_option_customTranslatorModule_manageButton": {
-		"message": "Manage translators"
+		"message": "管理翻译器"
 	},
 	"settings_option_mainPreferences": {
-		"message": "Main settings"
+		"message": "主要设置"
 	},
 	"settings_option_pageTranslation": {
-		"message": "Page translation"
+		"message": "页面翻译"
 	},
 	"settings_option_pageTranslation_detectLanguageByContent": {
-		"message": "Detect language by content"
+		"message": "通过内容检测语言"
 	},
 	"settings_option_pageTranslation_detectLanguageByContent_desc": {
-		"message": "Analyze text on web page to detect page language. When disabled will use a language provided in page metadata"
+		"message": "分析网页上的文本以检测页面语言。禁用后将使用页面元数据中提供的语言"
 	},
 	"settings_option_pageTranslation_enableContextMenu": {
-		"message": "Enable context menu button"
+		"message": "启用上下文菜单按钮"
 	},
 	"settings_option_pageTranslation_enableContextMenu_desc": {
-		"message": "Add button to toggle page translation to a context menu"
+		"message": "将切换页面翻译的按钮添加到上下文菜单"
 	},
 	"settings_option_pageTranslation_ignoredTags": {
-		"message": "Ignored elements"
+		"message": "忽略的元素"
 	},
 	"settings_option_pageTranslation_ignoredTags_desc": {
-		"message": "Enter <slot id=htmlElements>HTML element</slot> names that must not be translated. Nested elements will not be translated too. One element per line."
+		"message": "输入不必翻译的<slot id=htmlElements>HTML元素</slot>名称。嵌套元素也不会被翻译。每行一个元素。"
 	},
 	"settings_option_pageTranslation_lazyTranslate": {
-		"message": "Translate only visible elements"
+		"message": "只翻译可见元素"
 	},
 	"settings_option_pageTranslation_lazyTranslate_desc": {
-		"message": "When this option is enabled, only visible elements will be translated. This may be useful to save network traffic"
+		"message": "启用此选项后，只有可见元素才会被翻译。这可能有助于节省网络流量"
 	},
 	"settings_option_pageTranslation_originalTextPopup": {
-		"message": "Enable popup with original text"
+		"message": "启用原文弹出窗口"
 	},
 	"settings_option_pageTranslation_originalTextPopup_desc": {
-		"message": "Show a popup with original text by hovering the mouse over translated text"
+		"message": "将鼠标悬停在翻译文本上时，显示带有原文的弹出窗口"
 	},
 	"settings_option_pageTranslation_toggleTranslationHotkey": {
-		"message": "Hotkeys"
+		"message": "热键"
 	},
 	"settings_option_pageTranslation_toggleTranslationHotkey_desc": {
-		"message": "Shortcuts to toggle page translation\nPress ESC to reset keys"
+		"message": "切换页面翻译的快捷键\n按ESC重置键"
 	},
 	"settings_option_pageTranslation_translatableAttributes": {
-		"message": "Translatable attributes."
+		"message": "可翻译的属性"
 	},
 	"settings_option_pageTranslation_translatableAttributes_desc": {
-		"message": "Enter <slot id=htmlAttributes>HTML attribute</slot> names for translation. One attribute per line"
+		"message": "输入用于翻译的<slot id=htmlAttributes>HTML属性</slot>名称。每行一个属性"
 	},
 	"settings_option_popupTab_pageTranslator_showCounters": {
-		"message": "Show translation statistics"
+		"message": "显示翻译统计"
 	},
 	"settings_option_popupTab_pageTranslator_showCounters_desc": {
-		"message": "Display statistics for page translation"
+		"message": "显示页面翻译的统计信息"
 	},
 	"settings_option_selectTranslation": {
-		"message": "Selected text translation"
+		"message": "选定的文本翻译"
 	},
 	"settings_option_selectTranslation_detectedLangFirst": {
-		"message": "Prefer detected language of the text instead of the page language"
+		"message": "优先考虑文本的检测语言而不是页面语言"
 	},
 	"settings_option_selectTranslation_detectedLangFirst_desc": {
-		"message": "When enabled, the detected language of the selected text will be preferred over the page language"
+		"message": "启用后，将优先考虑选定文本的检测语言而不是页面语言"
 	},
 	"settings_option_selectTranslation_disableWhileTranslatePage": {
-		"message": "Disable while translating page"
+		"message": "在翻译页面时禁用"
 	},
 	"settings_option_selectTranslation_enable": {
-		"message": "Enable"
+		"message": "启用"
 	},
 	"settings_option_selectTranslation_focusOnTranslateButton": {
-		"message": "Auto-focus on translation button"
+		"message": "自动聚焦翻译按钮"
 	},
 	"settings_option_selectTranslation_focusOnTranslateButton_desc": {
-		"message": "Focus on the translation button when it appears"
+		"message": "当翻译按钮出现时聚焦"
 	},
 	"settings_option_selectTranslation_header_languageChoice": {
-		"message": "Language settings"
+		"message": "语言设置"
 	},
 	"settings_option_selectTranslation_isUseAutoForDetectLang": {
-		"message": "Enable automatic language detection by the translator"
+		"message": "启用翻译器的自动语言检测"
 	},
 	"settings_option_selectTranslation_isUseAutoForDetectLang_desc": {
-		"message": "Use automatic language detection by the translator when the language cannot be detected locally"
+		"message": "当无法在本地检测到语言时，使用翻译器的自动语言检测"
 	},
 	"settings_option_selectTranslation_mode": {
-		"message": "Translation trigger"
+		"message": "翻译触发器"
 	},
 	"settings_option_selectTranslation_mode_item_contextMenu": {
-		"message": "Context menu button"
+		"message": "上下文菜单按钮"
 	},
 	"settings_option_selectTranslation_mode_item_popupButton": {
-		"message": "Popup button"
+		"message": "弹出按钮"
 	},
 	"settings_option_selectTranslation_mode_item_quickTranslate": {
-		"message": "Quick translation by selection"
+		"message": "通过选择快速翻译"
 	},
 	"settings_option_selectTranslation_modifiers": {
-		"message": "Modifiers"
+		"message": "修饰符"
 	},
 	"settings_option_selectTranslation_modifiers_desc": {
-		"message": "Select the keys that must be pressed on the keyboard to show the translation"
+		"message": "选择必须按下键盘上的键以显示翻译"
 	},
 	"settings_option_selectTranslation_modifiers_key_alt": {
 		"message": "alt"
@@ -456,160 +456,160 @@
 		"message": "shift"
 	},
 	"settings_option_selectTranslation_rememberDirection": {
-		"message": "Remember most recent selected language of text"
+		"message": "记住最近选择的文本语言"
 	},
 	"settings_option_selectTranslation_showOnceForSelection": {
-		"message": "Show translation button once for each text selection"
+		"message": "每次选择文本时显示一次翻译按钮"
 	},
 	"settings_option_selectTranslation_showOnceForSelection_desc": {
-		"message": "Button will show only once for each text selection. If you need to show it again, re-select text"
+		"message": "每次文本选择只显示一次按钮。如果需要再次显示，重新选择文本"
 	},
 	"settings_option_selectTranslation_showOriginalText": {
-		"message": "Show original text"
+		"message": "显示原始文本"
 	},
 	"settings_option_selectTranslation_showOriginalText_desc": {
-		"message": "Add block with original text to a popup with translation"
+		"message": "在带有翻译的弹出窗口中添加原始文本块"
 	},
 	"settings_option_selectTranslation_strictSelection": {
-		"message": "Strict selection"
+		"message": "严格选择"
 	},
 	"settings_option_selectTranslation_strictSelection_desc": {
-		"message": "Ignore the selection if the left mouse button is released outside of a block that contains selected text"
+		"message": "如果鼠标左键在包含选定文本的块外部释放，则忽略选择"
 	},
 	"settings_option_selectTranslation_timeoutForHideButton": {
-		"message": "Delay to hide button"
+		"message": "隐藏按钮的延迟"
 	},
 	"settings_option_selectTranslation_timeoutForHideButton_desc": {
-		"message": "Delay in milliseconds before hiding the button when the cursor is not hovered. Cursor hovering on a button will reset the timer. To disable auto-hiding, set the value lower than 1"
+		"message": "在光标未悬停时隐藏按钮之前的毫秒延迟。光标悬停在按钮上会重置计时器。要禁用自动隐藏，将值设置为小于1的值"
 	},
 	"settings_option_selectTranslation_zIndex": {
 		"message": "z-index"
 	},
 	"settings_option_selectTranslation_zIndex_desc": {
-		"message": "Increase the value if some elements on some pages overlap a popup with translated text"
+		"message": "如果某些页面上的某些元素重叠了带有翻译文本的弹出窗口，增加该值"
 	},
 	"settings_option_textTranslator": {
-		"message": "Text translation"
+		"message": "文本翻译"
 	},
 	"settings_option_textTranslator_rememberText": {
-		"message": "Remember translated text"
+		"message": "记住翻译的文本"
 	},
 	"settings_option_textTranslator_rememberText_desc": {
-		"message": "Remember translated text for the next time the window is opened"
+		"message": "记住下次打开窗口时的翻译文本"
 	},
 	"settings_option_textTranslator_spellCheck": {
-		"message": "Enable spell check"
+		"message": "启用拼写检查"
 	},
 	"settings_option_textTranslator_suggestLanguage": {
-		"message": "Suggest detected text language"
+		"message": "建议检测到的文本语言"
 	},
 	"settings_option_textTranslator_suggestLanguageAlways": {
-		"message": "Always detect and suggest language"
+		"message": "始终检测并建议语言"
 	},
 	"settings_option_textTranslator_suggestLanguageAlways_desc": {
-		"message": "When disabled, language suggestions will only appear when the source language is auto detected"
+		"message": "禁用后，只有在源语言被自动检测时才会出现语言建议"
 	},
 	"settings_option_translatePreferences": {
-		"message": "Translation preferences"
+		"message": "翻译偏好"
 	},
 	"settings_option_translateScheduler": {
-		"message": "Translation scheduler"
+		"message": "翻译调度器"
 	},
 	"settings_option_translateScheduler_delay": {
-		"message": "Text accumulation delay"
+		"message": "文本累积延迟"
 	},
 	"settings_option_translateScheduler_delay_desc": {
-		"message": "The translation scheduler decreases the number of requests to the translation services API. The scheduler tries to accumulate texts to send as many texts as possible per one request. The scheduler will wait for the specified time in milliseconds to collect new texts before starting to translate"
+		"message": "翻译调度器减少了对翻译服务API的请求次数。调度器试图累积文本，以便每次请求尽可能多的文本。调度器将等待指定的毫秒数以收集新的文本，然后开始翻译"
 	},
 	"settings_option_translateScheduler_retryLimit": {
-		"message": "Translation retry attempts"
+		"message": "翻译重试次数"
 	},
 	"settings_option_translateScheduler_retryLimit_desc": {
-		"message": "The scheduler will retry translating texts for translation errors. This option sets a limit for the retry attempts. Set a negative number to allow unlimited retries"
+		"message": "调度器将重试翻译错误的文本。此选项设置重试次数的限制。设置一个负数以允许无限次重试"
 	},
 	"settings_option_translatorModule": {
-		"message": "Translator module"
+		"message": "翻译器模块"
 	},
 	"settings_option_translatorModule_desc": {
-		"message": "The quality of translations and the available languages for translation depend on the translator."
+		"message": "翻译的质量和可用于翻译的语言取决于翻译器。"
 	},
 	"settings_option_tts": {
-		"message": "Text to speech (TTS)"
+		"message": "文本转语音（TTS）"
 	},
 	"settings_option_ttsCustomModules": {
-		"message": "Custom TTS"
+		"message": "自定义TTS"
 	},
 	"settings_option_ttsCustomModules_button": {
-		"message": "Manage TTS modules"
+		"message": "管理TTS模块"
 	},
 	"settings_option_ttsCustomModules_desc": {
-		"message": "You can add TTS modules that use your favorite service and voices. Read more and find modules in the custom TTS documentation."
+		"message": "您可以添加使用您喜欢的服务和语音的TTS模块。在自定义TTS文档中阅读更多并找到模块。"
 	},
 	"settings_option_ttsModule": {
-		"message": "TTS module"
+		"message": "TTS模块"
 	},
 	"settings_option_ttsModule_desc": {
-		"message": "Module to speak texts"
+		"message": "用于朗读文本的模块"
 	},
 	"settings_option_userLanguage": {
-		"message": "Your language"
+		"message": "您的语言"
 	},
 	"settings_option_userLanguage_desc": {
-		"message": "Target language to translate texts"
+		"message": "翻译文本的目标语言"
 	},
 	"settings_pageTitle": {
-		"message": "Settings"
+		"message": "设置"
 	},
 	"settings_section_popup": {
-		"message": "Popup"
+		"message": "弹出"
 	},
 	"textTranslator_suggestLanguage": {
-		"message": "It looks like that language is"
+		"message": "看起来语言是"
 	},
 	"textTranslator_translateInputPlaceholder": {
-		"message": "Input text"
+		"message": "输入文本"
 	},
 	"textTranslator_translatePlaceholder": {
-		"message": "Translated text"
+		"message": "翻译文本"
 	},
 	"translatorsManagerWindow_add": {
-		"message": "Add"
+		"message": "添加"
 	},
 	"translatorsManagerWindow_close": {
-		"message": "Close"
+		"message": "关闭"
 	},
 	"translatorsManagerWindow_emptyTranslatorsListText": {
-		"message": "Custom translators have not been added yet"
+		"message": "尚未添加自定义翻译器"
 	},
 	"translatorsManagerWindow_message_translatorRemovingConfirmation": {
-		"message": "Are you sure about removing translator \"$translator_name$\"?",
+		"message": "您确定要删除翻译器\"$translator_name$\"吗？",
 		"placeholders": {
 			"translator_name": {
 				"content": "$1",
-				"example": "Google translator"
+				"example": "Google翻译器"
 			}
 		}
 	},
 	"translatorsManagerWindow_title": {
-		"message": "Custom translators"
+		"message": "自定义翻译器"
 	},
 	"translatorsManagerWindow_translator_delete": {
-		"message": "Delete"
+		"message": "删除"
 	},
 	"translatorsManagerWindow_translator_edit": {
-		"message": "Edit"
+		"message": "编辑"
 	},
 	"ttsManagerWindow_add": {
-		"message": "Add"
+		"message": "添加"
 	},
 	"ttsManagerWindow_close": {
-		"message": "Close"
+		"message": "关闭"
 	},
 	"ttsManagerWindow_emptyTranslatorsListText": {
-		"message": "TTS modules have not been added yet"
+		"message": "尚未添加TTS模块"
 	},
 	"ttsManagerWindow_message_ttsRemoveConfirmation": {
-		"message": "Are you sure about removing TTS \"$tts_name$\"?",
+		"message": "您确定要删除TTS \"$tts_name$\"吗？",
 		"placeholders": {
 			"tts_name": {
 				"content": "$1",
@@ -618,582 +618,582 @@
 		}
 	},
 	"ttsManagerWindow_title": {
-		"message": "Text to speech modules"
+		"message": "文本转语音模块"
 	},
 	"ttsManagerWindow_translator_delete": {
-		"message": "Delete"
+		"message": "删除"
 	},
 	"ttsManagerWindow_translator_edit": {
-		"message": "Edit"
+		"message": "编辑"
 	},
 	"validation_number": {
-		"message": "The parameter must be a number"
+		"message": "参数必须是数字"
 	},
 	"validation_numberBetweenRange": {
-		"message": "The parameter must be a number between $1 and $2"
+		"message": "参数必须是$1和$2之间的数字"
 	},
 	"validation_positiveNumber": {
-		"message": "The parameter must be a positive number."
+		"message": "参数必须是正数。"
 	},
 	"langCode_aa": {
-		"message": "Afar"
+		"message": "阿法尔语"
 	},
 	"langCode_ab": {
-		"message": "Abkhazian"
+		"message": "阿布哈兹语"
 	},
 	"langCode_ae": {
-		"message": "Avestan"
+		"message": "阿维斯塔语"
 	},
 	"langCode_af": {
-		"message": "Afrikaans"
+		"message": "南非荷兰语"
 	},
 	"langCode_ak": {
-		"message": "Akan"
+		"message": "阿坎语"
 	},
 	"langCode_am": {
-		"message": "Amharic"
+		"message": "阿姆哈拉语"
 	},
 	"langCode_an": {
-		"message": "Aragonese"
+		"message": "阿拉贡语"
 	},
 	"langCode_ar": {
-		"message": "Arabic"
+		"message": "阿拉伯语"
 	},
 	"langCode_as": {
-		"message": "Assamese"
+		"message": "阿萨姆语"
 	},
 	"langCode_av": {
-		"message": "Avaric"
+		"message": "阿瓦尔语"
 	},
 	"langCode_ay": {
-		"message": "Aymara"
+		"message": "艾马拉语"
 	},
 	"langCode_az": {
-		"message": "Azerbaijani"
+		"message": "阿塞拜疆语"
 	},
 	"langCode_ba": {
-		"message": "Bashkir"
+		"message": "巴什基尔语"
 	},
 	"langCode_be": {
-		"message": "Belarusian"
+		"message": "白俄罗斯语"
 	},
 	"langCode_bg": {
-		"message": "Bulgarian"
+		"message": "保加利亚语"
 	},
 	"langCode_bh": {
-		"message": "Bihari languages"
+		"message": "比哈尔语系"
 	},
 	"langCode_bi": {
-		"message": "Bislama"
+		"message": "比斯拉马语"
 	},
 	"langCode_bm": {
-		"message": "Bambara"
+		"message": "班巴拉语"
 	},
 	"langCode_bn": {
-		"message": "Bengali"
+		"message": "孟加拉语"
 	},
 	"langCode_bo": {
-		"message": "Tibetan"
+		"message": "藏语"
 	},
 	"langCode_br": {
-		"message": "Breton"
+		"message": "布列塔尼语"
 	},
 	"langCode_bs": {
-		"message": "Bosnian"
+		"message": "波斯尼亚语"
 	},
 	"langCode_ca": {
-		"message": "Catalan"
+		"message": "加泰罗尼亚语"
 	},
 	"langCode_ce": {
-		"message": "Chechen"
+		"message": "车臣语"
 	},
 	"langCode_ch": {
-		"message": "Chamorro"
+		"message": "查莫罗语"
 	},
 	"langCode_co": {
-		"message": "Corsican"
+		"message": "科西嘉语"
 	},
 	"langCode_cr": {
-		"message": "Cree"
+		"message": "克里语"
 	},
 	"langCode_cs": {
-		"message": "Czech"
+		"message": "捷克语"
 	},
 	"langCode_cu": {
-		"message": "Church Slavic"
+		"message": "教会斯拉夫语"
 	},
 	"langCode_cv": {
-		"message": "Chuvash"
+		"message": "楚瓦什语"
 	},
 	"langCode_cy": {
-		"message": "Welsh"
+		"message": "威尔士语"
 	},
 	"langCode_da": {
-		"message": "Danish"
+		"message": "丹麦语"
 	},
 	"langCode_de": {
-		"message": "German"
+		"message": "德语"
 	},
 	"langCode_dv": {
-		"message": "Divehi"
+		"message": "迪维希语"
 	},
 	"langCode_dz": {
-		"message": "Dzongkha"
+		"message": "宗卡语"
 	},
 	"langCode_ee": {
-		"message": "Ewe"
+		"message": "埃维语"
 	},
 	"langCode_el": {
-		"message": "Greek"
+		"message": "希腊语"
 	},
 	"langCode_en": {
-		"message": "English"
+		"message": "英语"
 	},
 	"langCode_eo": {
-		"message": "Esperanto"
+		"message": "世界语"
 	},
 	"langCode_es": {
-		"message": "Spanish"
+		"message": "西班牙语"
 	},
 	"langCode_et": {
-		"message": "Estonian"
+		"message": "爱沙尼亚语"
 	},
 	"langCode_eu": {
-		"message": "Basque"
+		"message": "巴斯克语"
 	},
 	"langCode_fa": {
-		"message": "Persian"
+		"message": "波斯语"
 	},
 	"langCode_ff": {
-		"message": "Fulah"
+		"message": "富拉语"
 	},
 	"langCode_fi": {
-		"message": "Finnish"
+		"message": "芬兰语"
 	},
 	"langCode_fj": {
-		"message": "Fijian"
+		"message": "斐济语"
 	},
 	"langCode_fo": {
-		"message": "Faroese"
+		"message": "法罗语"
 	},
 	"langCode_fr": {
-		"message": "French"
+		"message": "法语"
 	},
 	"langCode_fy": {
-		"message": "Western Frisian"
+		"message": "西弗里西亚语"
 	},
 	"langCode_ga": {
-		"message": "Irish"
+		"message": "爱尔兰语"
 	},
 	"langCode_gd": {
-		"message": "Gaelic"
+		"message": "苏格兰盖尔语"
 	},
 	"langCode_gl": {
-		"message": "Galician"
+		"message": "加利西亚语"
 	},
 	"langCode_gn": {
-		"message": "Guarani"
+		"message": "瓜拉尼语"
 	},
 	"langCode_gu": {
-		"message": "Gujarati"
+		"message": "古吉拉特语"
 	},
 	"langCode_gv": {
-		"message": "Manx"
+		"message": "曼岛语"
 	},
 	"langCode_ha": {
-		"message": "Hausa"
+		"message": "豪萨语"
 	},
 	"langCode_he": {
-		"message": "Hebrew"
+		"message": "希伯来语"
 	},
 	"langCode_hi": {
-		"message": "Hindi"
+		"message": "印地语"
 	},
 	"langCode_ho": {
-		"message": "Hiri Motu"
+		"message": "希里莫图语"
 	},
 	"langCode_hr": {
-		"message": "Croatian"
+		"message": "克罗地亚语"
 	},
 	"langCode_ht": {
-		"message": "Haitian"
+		"message": "海地克里奥尔语"
 	},
 	"langCode_hu": {
-		"message": "Hungarian"
+		"message": "匈牙利语"
 	},
 	"langCode_hy": {
-		"message": "Armenian"
+		"message": "亚美尼亚语"
 	},
 	"langCode_hz": {
-		"message": "Herero"
+		"message": "赫雷罗语"
 	},
 	"langCode_ia": {
-		"message": "Interlingua"
+		"message": "国际语"
 	},
 	"langCode_id": {
-		"message": "Indonesian"
+		"message": "印度尼西亚语"
 	},
 	"langCode_ie": {
-		"message": "Interlingue"
+		"message": "国际语E"
 	},
 	"langCode_ig": {
-		"message": "Igbo"
+		"message": "伊博语"
 	},
 	"langCode_ii": {
-		"message": "Sichuan Yi"
+		"message": "四川彝语"
 	},
 	"langCode_ik": {
-		"message": "Inupiaq"
+		"message": "伊努皮亚克语"
 	},
 	"langCode_io": {
-		"message": "Ido"
+		"message": "伊多语"
 	},
 	"langCode_is": {
-		"message": "Icelandic"
+		"message": "冰岛语"
 	},
 	"langCode_it": {
-		"message": "Italian"
+		"message": "意大利语"
 	},
 	"langCode_iu": {
-		"message": "Inuktitut"
+		"message": "因纽特语"
 	},
 	"langCode_ja": {
-		"message": "Japanese"
+		"message": "日语"
 	},
 	"langCode_jv": {
-		"message": "Javanese"
+		"message": "爪哇语"
 	},
 	"langCode_ka": {
-		"message": "Georgian"
+		"message": "格鲁吉亚语"
 	},
 	"langCode_kg": {
-		"message": "Kongo"
+		"message": "刚果语"
 	},
 	"langCode_ki": {
-		"message": "Kikuyu"
+		"message": "吉库尤语"
 	},
 	"langCode_kj": {
-		"message": "Kuanyama"
+		"message": "宽亚玛语"
 	},
 	"langCode_kk": {
-		"message": "Kazakh"
+		"message": "哈萨克语"
 	},
 	"langCode_kl": {
-		"message": "Kalaallisut"
+		"message": "格陵兰语"
 	},
 	"langCode_km": {
-		"message": "Central Khmer"
+		"message": "中央高棉语"
 	},
 	"langCode_kn": {
-		"message": "Kannada"
+		"message": "卡纳达语"
 	},
 	"langCode_ko": {
-		"message": "Korean"
+		"message": "韩语"
 	},
 	"langCode_kr": {
-		"message": "Kanuri"
+		"message": "卡努里语"
 	},
 	"langCode_ks": {
-		"message": "Kashmiri"
+		"message": "克什米尔语"
 	},
 	"langCode_ku": {
-		"message": "Kurdish"
+		"message": "库尔德语"
 	},
 	"langCode_kv": {
-		"message": "Komi"
+		"message": "科米语"
 	},
 	"langCode_kw": {
-		"message": "Cornish"
+		"message": "康沃尔语"
 	},
 	"langCode_ky": {
-		"message": "Kirghiz"
+		"message": "吉尔吉斯语"
 	},
 	"langCode_la": {
-		"message": "Latin"
+		"message": "拉丁语"
 	},
 	"langCode_lb": {
-		"message": "Luxembourgish"
+		"message": "卢森堡语"
 	},
 	"langCode_lg": {
-		"message": "Ganda"
+		"message": "甘达语"
 	},
 	"langCode_li": {
-		"message": "Limburgan"
+		"message": "林堡语"
 	},
 	"langCode_ln": {
-		"message": "Lingala"
+		"message": "林加拉语"
 	},
 	"langCode_lo": {
-		"message": "Lao"
+		"message": "老挝语"
 	},
 	"langCode_lt": {
-		"message": "Lithuanian"
+		"message": "立陶宛语"
 	},
 	"langCode_lu": {
-		"message": "Luba-Katanga"
+		"message": "鲁巴-加丹加语"
 	},
 	"langCode_lv": {
-		"message": "Latvian"
+		"message": "拉脱维亚语"
 	},
 	"langCode_mg": {
-		"message": "Malagasy"
+		"message": "马达加斯加语"
 	},
 	"langCode_mh": {
-		"message": "Marshallese"
+		"message": "马绍尔语"
 	},
 	"langCode_mi": {
-		"message": "Maori"
+		"message": "毛利语"
 	},
 	"langCode_mk": {
-		"message": "Macedonian"
+		"message": "马其顿语"
 	},
 	"langCode_ml": {
-		"message": "Malayalam"
+		"message": "马拉雅拉姆语"
 	},
 	"langCode_mn": {
-		"message": "Mongolian"
+		"message": "蒙古语"
 	},
 	"langCode_mr": {
-		"message": "Marathi"
+		"message": "马拉地语"
 	},
 	"langCode_ms": {
-		"message": "Malay"
+		"message": "马来语"
 	},
 	"langCode_mt": {
-		"message": "Maltese"
+		"message": "马耳他语"
 	},
 	"langCode_my": {
-		"message": "Burmese"
+		"message": "缅甸语"
 	},
 	"langCode_na": {
-		"message": "Nauru"
+		"message": "瑙鲁语"
 	},
 	"langCode_nb": {
-		"message": "Norwegian Bokmål"
+		"message": "挪威博克马尔语"
 	},
 	"langCode_nd": {
-		"message": "North Ndebele"
+		"message": "北恩德贝勒语"
 	},
 	"langCode_ne": {
-		"message": "Nepali"
+		"message": "尼泊尔语"
 	},
 	"langCode_ng": {
-		"message": "Ndonga"
+		"message": "恩东加语"
 	},
 	"langCode_nl": {
-		"message": "Dutch"
+		"message": "荷兰语"
 	},
 	"langCode_nn": {
-		"message": "Norwegian Nynorsk"
+		"message": "挪威尼诺斯克语"
 	},
 	"langCode_no": {
-		"message": "Norwegian"
+		"message": "挪威语"
 	},
 	"langCode_nr": {
-		"message": "South Ndebele"
+		"message": "南恩德贝勒语"
 	},
 	"langCode_nv": {
-		"message": "Navajo"
+		"message": "纳瓦霍语"
 	},
 	"langCode_ny": {
-		"message": "Chichewa"
+		"message": "齐切瓦语"
 	},
 	"langCode_oc": {
-		"message": "Occitan"
+		"message": "奥克语"
 	},
 	"langCode_oj": {
-		"message": "Ojibwa"
+		"message": "奥吉布瓦语"
 	},
 	"langCode_om": {
-		"message": "Oromo"
+		"message": "奥罗莫语"
 	},
 	"langCode_or": {
-		"message": "Oriya"
+		"message": "奥里亚语"
 	},
 	"langCode_os": {
-		"message": "Ossetian"
+		"message": "奥塞梯语"
 	},
 	"langCode_pa": {
-		"message": "Panjabi"
+		"message": "旁遮普语"
 	},
 	"langCode_pi": {
-		"message": "Pali"
+		"message": "巴利语"
 	},
 	"langCode_pl": {
-		"message": "Polish"
+		"message": "波兰语"
 	},
 	"langCode_ps": {
-		"message": "Pushto"
+		"message": "普什图语"
 	},
 	"langCode_pt": {
-		"message": "Portuguese"
+		"message": "葡萄牙语"
 	},
 	"langCode_qu": {
-		"message": "Quechua"
+		"message": "克丘亚语"
 	},
 	"langCode_rm": {
-		"message": "Romansh"
+		"message": "罗曼什语"
 	},
 	"langCode_rn": {
-		"message": "Rundi"
+		"message": "隆迪语"
 	},
 	"langCode_ro": {
-		"message": "Romanian"
+		"message": "罗马尼亚语"
 	},
 	"langCode_ru": {
-		"message": "Russian"
+		"message": "俄语"
 	},
 	"langCode_rw": {
-		"message": "Kinyarwanda"
+		"message": "基尼亚利旺达语"
 	},
 	"langCode_sa": {
-		"message": "Sanskrit"
+		"message": "梵语"
 	},
 	"langCode_sc": {
-		"message": "Sardinian"
+		"message": "萨丁语"
 	},
 	"langCode_sd": {
-		"message": "Sindhi"
+		"message": "信德语"
 	},
 	"langCode_se": {
-		"message": "Northern Sami"
+		"message": "北萨米语"
 	},
 	"langCode_sg": {
-		"message": "Sango"
+		"message": "桑戈语"
 	},
 	"langCode_si": {
-		"message": "Sinhala"
+		"message": "僧伽罗语"
 	},
 	"langCode_sk": {
-		"message": "Slovak"
+		"message": "斯洛伐克语"
 	},
 	"langCode_sl": {
-		"message": "Slovenian"
+		"message": "斯洛文尼亚语"
 	},
 	"langCode_sm": {
-		"message": "Samoan"
+		"message": "萨摩亚语"
 	},
 	"langCode_sn": {
-		"message": "Shona"
+		"message": "修纳语"
 	},
 	"langCode_so": {
-		"message": "Somali"
+		"message": "索马里语"
 	},
 	"langCode_sq": {
-		"message": "Albanian"
+		"message": "阿尔巴尼亚语"
 	},
 	"langCode_sr": {
-		"message": "Serbian"
+		"message": "塞尔维亚语"
 	},
 	"langCode_ss": {
-		"message": "Swati"
+		"message": "斯瓦特语"
 	},
 	"langCode_st": {
-		"message": "South Sotho"
+		"message": "南索托语"
 	},
 	"langCode_su": {
-		"message": "Sundanese"
+		"message": "巽他语"
 	},
 	"langCode_sv": {
-		"message": "Swedish"
+		"message": "瑞典语"
 	},
 	"langCode_sw": {
-		"message": "Swahili"
+		"message": "斯瓦希里语"
 	},
 	"langCode_ta": {
-		"message": "Tamil"
+		"message": "泰米尔语"
 	},
 	"langCode_te": {
-		"message": "Telugu"
+		"message": "泰卢固语"
 	},
 	"langCode_tg": {
-		"message": "Tajik"
+		"message": "塔吉克语"
 	},
 	"langCode_th": {
-		"message": "Thai"
+		"message": "泰语"
 	},
 	"langCode_ti": {
-		"message": "Tigrinya"
+		"message": "提格利尼亚语"
 	},
 	"langCode_tk": {
-		"message": "Turkmen"
+		"message": "土库曼语"
 	},
 	"langCode_tl": {
-		"message": "Tagalog"
+		"message": "塔加洛语"
 	},
 	"langCode_tn": {
-		"message": "Tswana"
+		"message": "茨瓦纳语"
 	},
 	"langCode_to": {
-		"message": "Tonga"
+		"message": "汤加语"
 	},
 	"langCode_tr": {
-		"message": "Turkish"
+		"message": "土耳其语"
 	},
 	"langCode_ts": {
-		"message": "Tsonga"
+		"message": "聪加语"
 	},
 	"langCode_tt": {
-		"message": "Tatar"
+		"message": "塔塔尔语"
 	},
 	"langCode_tw": {
-		"message": "Twi"
+		"message": "特维语"
 	},
 	"langCode_ty": {
-		"message": "Tahitian"
+		"message": "塔希提语"
 	},
 	"langCode_ug": {
-		"message": "Uighur"
+		"message": "维吾尔语"
 	},
 	"langCode_uk": {
-		"message": "Ukrainian"
+		"message": "乌克兰语"
 	},
 	"langCode_ur": {
-		"message": "Urdu"
+		"message": "乌尔都语"
 	},
 	"langCode_uz": {
-		"message": "Uzbek"
+		"message": "乌兹别克语"
 	},
 	"langCode_ve": {
-		"message": "Venda"
+		"message": "文达语"
 	},
 	"langCode_vi": {
-		"message": "Vietnamese"
+		"message": "越南语"
 	},
 	"langCode_vo": {
-		"message": "Volapük"
+		"message": "沃拉普克语"
 	},
 	"langCode_wa": {
-		"message": "Walloon"
+		"message": "瓦隆语"
 	},
 	"langCode_wo": {
-		"message": "Wolof"
+		"message": "沃洛夫语"
 	},
 	"langCode_xh": {
-		"message": "Xhosa"
+		"message": "科萨语"
 	},
 	"langCode_yi": {
-		"message": "Yiddish"
+		"message": "意第绪语"
 	},
 	"langCode_yo": {
-		"message": "Yoruba"
+		"message": "约鲁巴语"
 	},
 	"langCode_za": {
-		"message": "Zhuang"
+		"message": "壮语"
 	},
 	"langCode_zh": {
-		"message": "Chinese"
+		"message": "中文"
 	},
 	"langCode_zh_CN": {
-		"message": "Chinese (Simplified)"
+		"message": "简体中文"
 	},
 	"langCode_zh_HK": {
-		"message": "Chinese (Hong Kong)"
+		"message": "中文（香港"
 	},
 	"langCode_zh_TW": {
-		"message": "Chinese (Traditional)"
+		"message": "繁体中文"
 	},
 	"langCode_zu": {
-		"message": "Zulu"
+		"message": "祖鲁语"
 	}
 }

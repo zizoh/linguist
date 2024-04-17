@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "Kinų"
 	},
+	"langCode_zh_CN": {
+		"message": "Kinų (supaprastintas)"
+	},
+	"langCode_zh_HK": {
+		"message": "Kinų (Honkongas)"
+	},
+	"langCode_zh_TW": {
+		"message": "Kinų (tradicinis)"
+	},
 	"langCode_zu": {
 		"message": "Zulų"
 	}

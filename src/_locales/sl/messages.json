@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "Kitajščina"
 	},
+	"langCode_zh_CN": {
+		"message": "Kitajščina (poenostavljena)"
+	},
+	"langCode_zh_HK": {
+		"message": "Kitajščina (Hong Kong)"
+	},
+	"langCode_zh_TW": {
+		"message": "Kitajščina (tradicionalna)"
+	},
 	"langCode_zu": {
 		"message": "Zulujščina"
 	}

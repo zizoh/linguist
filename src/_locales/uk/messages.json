@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "Китайська"
 	},
+	"langCode_zh_CN": {
+		"message": "Китайська (спрощена)"
+	},
+	"langCode_zh_HK": {
+		"message": "Китайська (Гонконг)"
+	},
+	"langCode_zh_TW": {
+		"message": "Китайська (традиційна)"
+	},
 	"langCode_zu": {
 		"message": "Зулуська"
 	}

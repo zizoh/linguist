@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "ચાઇનીઝ"
 	},
+	"langCode_zh_CN": {
+		"message": "ચિની (સરળ)"
+	},
+	"langCode_zh_HK": {
+		"message": "ચિની (હોંગકોંગ)"
+	},
+	"langCode_zh_TW": {
+		"message": "ચિની (પારંપારિક)"
+	},
 	"langCode_zu": {
 		"message": "ઝુલુ"
 	}

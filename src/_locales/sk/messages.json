@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "Čínština"
 	},
+	"langCode_zh_CN": {
+		"message": "Čínština (zjednodušená)"
+	},
+	"langCode_zh_HK": {
+		"message": "Čínština (Hongkong)"
+	},
+	"langCode_zh_TW": {
+		"message": "Čínština (tradičná)"
+	},
 	"langCode_zu": {
 		"message": "Zuluština"
 	}

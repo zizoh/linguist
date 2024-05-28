@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "Çince"
 	},
+	"langCode_zh_CN": {
+		"message": "Çince (Basitleştirilmiş)"
+	},
+	"langCode_zh_HK": {
+		"message": "Çince (Hong Kong)"
+	},
+	"langCode_zh_TW": {
+		"message": "Çince (Geleneksel)"
+	},
 	"langCode_zu": {
 		"message": "Zuluca"
 	}

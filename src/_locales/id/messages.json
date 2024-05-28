@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "Tionghoa"
 	},
+	"langCode_zh_CN": {
+		"message": "Cina (Sederhana)"
+	},
+	"langCode_zh_HK": {
+		"message": "Cina (Hong Kong)"
+	},
+	"langCode_zh_TW": {
+		"message": "Cina (Tradisional)"
+	},
 	"langCode_zu": {
 		"message": "Zulu"
 	}

@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "الصينية"
 	},
+	"langCode_zh_CN": {
+		"message": "الصينية (المبسطة)"
+	},
+	"langCode_zh_HK": {
+		"message": "الصينية (هونغ كونغ)"
+	},
+	"langCode_zh_TW": {
+		"message": "الصينية (التقليدية)"
+	},
 	"langCode_zu": {
 		"message": "الزولو"
 	}

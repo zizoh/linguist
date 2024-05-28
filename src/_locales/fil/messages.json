@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "Chinese"
 	},
+	"langCode_zh_CN": {
+		"message": "Intsik (Pinasimple)"
+	},
+	"langCode_zh_HK": {
+		"message": "Intsik (Hong Kong)"
+	},
+	"langCode_zh_TW": {
+		"message": "Intsik (Tradisyonal)"
+	},
 	"langCode_zu": {
 		"message": "Zulu"
 	}

@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "Chinees"
 	},
+	"langCode_zh_CN": {
+		"message": "Chinees (vereenvoudigd)"
+	},
+	"langCode_zh_HK": {
+		"message": "Chinees (Hongkong)"
+	},
+	"langCode_zh_TW": {
+		"message": "Chinees (traditioneel)"
+	},
 	"langCode_zu": {
 		"message": "Zoeloe"
 	}

@@ -1,6 +1,21 @@
 The build scripts are designed to run on unix platform (linux, mac, bsd, etc), if you on windows, try to install [cygwin](https://www.cygwin.com/).
 
 # Build from sources
+The project uses a local copy of the [Translate Tools Core](https://github.com/zizoh/translate-tools-core) library. To get started, clone the Translate Tools Core repository to a directory on your machine
+
+- Navigate to the translate-tools-core directory on your machine with `cd ../translate-tools-core`
+
+- Install dependencies with `npm install`
+
+- Build the library with `npm run build`
+
+- Navigate to the dist directory created after build with `cd dist`
+
+- Create a global symlink with `npm link`
+
+- Navigate back to your Linguist project directory with `cd ../linguist`
+
+- Link the global @translate-tools/core package to your project with run `npm link @translate-tools/core`
 
 To clear build, install docker and run `make buildAll` in root of repository. This command will install dependencies and compile linguist for all platforms and will pack it to archives.
 

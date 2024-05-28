@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "चीनी"
 	},
+	"langCode_zh_CN": {
+		"message": "चीनी (सरलीकृत)"
+	},
+	"langCode_zh_HK": {
+		"message": "चीनी (हांगकांग)"
+	},
+	"langCode_zh_TW": {
+		"message": "चीनी (पारंपारिक)"
+	},
 	"langCode_zu": {
 		"message": "ज़ुलू"
 	}

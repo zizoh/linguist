@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "చైనీస్"
 	},
+	"langCode_zh_CN": {
+		"message": "చైనీస్ (సరళీకృతం)"
+	},
+	"langCode_zh_HK": {
+		"message": "చైనీస్ (హాంగ్ కాంగ్)"
+	},
+	"langCode_zh_TW": {
+		"message": "చైనీస్ (సాంప్రదాయిక)"
+	},
 	"langCode_zu": {
 		"message": "జూలూ"
 	}

@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "จีน"
 	},
+	"langCode_zh_CN": {
+		"message": "จีน (ตัวย่อ)"
+	},
+	"langCode_zh_HK": {
+		"message": "จีน (ฮ่องกง)"
+	},
+	"langCode_zh_TW": {
+		"message": "จีน (ตามประเพณี)"
+	},
 	"langCode_zu": {
 		"message": "ซูลู"
 	}

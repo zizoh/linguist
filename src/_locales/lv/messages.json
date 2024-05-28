@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "Ķīniešu"
 	},
+	"langCode_zh_CN": {
+		"message": "Ķīniešu (vienkāršots)"
+	},
+	"langCode_zh_HK": {
+		"message": "Ķīniešu (Honkonga)"
+	},
+	"langCode_zh_TW": {
+		"message": "Ķīniešu (tradicionālais)"
+	},
 	"langCode_zu": {
 		"message": "Zulu"
 	}

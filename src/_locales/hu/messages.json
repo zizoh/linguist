@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "Kínai"
 	},
+	"langCode_zh_CN": {
+		"message": "Kínai (egyszerűsített)"
+	},
+	"langCode_zh_HK": {
+		"message": "Kínai (Hongkong)"
+	},
+	"langCode_zh_TW": {
+		"message": "Kínai (hagyományos)"
+	},
 	"langCode_zu": {
 		"message": "Zulu"
 	}

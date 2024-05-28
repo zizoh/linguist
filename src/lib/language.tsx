@@ -1,6 +1,6 @@
 import React, { ComponentType, ReactNode } from 'react';
 import browser from 'webextension-polyfill';
-import { isLanguageCodeISO639v1 } from '@translate-tools/core/languages';
+import { isLanguageCodeISO639v1OrChinese } from '@translate-tools/core/languages';
 
 import { isMobileBrowser } from './browser';
 
@@ -77,7 +77,8 @@ export function getLanguageNameByCode(
 	langCode: string,
 	encodeNotFoundToString: boolean = true,
 ) {
-	const fixedLangCode = langCode === 'auto' ? 'lang_detect' : `langCode_${langCode}`;
+	const fixedLangCode =
+		langCode === 'auto' ? 'lang_detect' : `langCode_${langCode.replace('-', '_')}`;
 	return encodeNotFoundToString
 		? getMessage(fixedLangCode)
 		: getInternationalizedMessage(fixedLangCode, undefined, null);
@@ -100,4 +101,5 @@ export const detectLanguage = async (text: string, reliableOnly = false) => {
 	});
 };
 
-export const isValidLanguage = (language: string) => isLanguageCodeISO639v1(language);
+export const isValidLanguage = (language: string) =>
+	isLanguageCodeISO639v1OrChinese(language);

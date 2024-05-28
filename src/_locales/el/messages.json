@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "Κινεζικά"
 	},
+	"langCode_zh_CN": {
+		"message": "Κινεζικά (Απλοποιημένα)"
+	},
+	"langCode_zh_HK": {
+		"message": "Κινεζικά (Χονγκ Κονγκ)"
+	},
+	"langCode_zh_TW": {
+		"message": "Κινεζικά (Παραδοσιακά)"
+	},
 	"langCode_zu": {
 		"message": "Ζουλού"
 	}

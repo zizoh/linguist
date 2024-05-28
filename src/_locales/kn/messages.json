@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "ಚೈನೀಸ್"
 	},
+	"langCode_zh_CN": {
+		"message": "ಚೀನೀ (ಸರಳವಾಗಿ)"
+	},
+	"langCode_zh_HK": {
+		"message": "ಚೀನೀ (ಹಾಂಗ್‌ಕಾಂಗ್)"
+	},
+	"langCode_zh_TW": {
+		"message": "ಚೀನೀ (ಸಾಂಪ್ರದಾಯಿಕ)"
+	},
 	"langCode_zu": {
 		"message": "ಜುಲು"
 	}

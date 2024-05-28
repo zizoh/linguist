@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "中国語"
 	},
+	"langCode_zh_CN": {
+		"message": "中国語（簡体字）"
+	},
+	"langCode_zh_HK": {
+		"message": "中国語（香港）"
+	},
+	"langCode_zh_TW": {
+		"message": "中国語（繁体字）"
+	},
 	"langCode_zu": {
 		"message": "ズールー語"
 	}

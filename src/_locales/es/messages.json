@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "Chino"
 	},
+	"langCode_zh_CN": {
+		"message": "Chino (Simplificado)"
+	},
+	"langCode_zh_HK": {
+		"message": "Chino (Hong Kong)"
+	},
+	"langCode_zh_TW": {
+		"message": "Chino (Tradicional)"
+	},
 	"langCode_zu": {
 		"message": "Zulú"
 	}

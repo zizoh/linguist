@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "Tiếng Trung"
 	},
+	"langCode_zh_CN": {
+		"message": "Tiếng Trung (giản thể)"
+	},
+	"langCode_zh_HK": {
+		"message": "Tiếng Trung (Hồng Kông)"
+	},
+	"langCode_zh_TW": {
+		"message": "Tiếng Trung (truyền thống)"
+	},
 	"langCode_zu": {
 		"message": "Tiếng Zulu"
 	}

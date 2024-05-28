@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "Kichina"
 	},
+	"langCode_zh_CN": {
+		"message": "Kichina (Rahisi)"
+	},
+	"langCode_zh_HK": {
+		"message": "Kichina (Hong Kong)"
+	},
+	"langCode_zh_TW": {
+		"message": "Kichina (Jadi)"
+	},
 	"langCode_zu": {
 		"message": "Kizulu"
 	}

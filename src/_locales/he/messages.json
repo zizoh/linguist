@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "סינית"
 	},
+	"langCode_zh_CN": {
+		"message": "סינית (פשוטה)"
+	},
+	"langCode_zh_HK": {
+		"message": "סינית (הונג קונג)"
+	},
+	"langCode_zh_TW": {
+		"message": "סינית (מסורתית)"
+	},
 	"langCode_zu": {
 		"message": "זולו"
 	}

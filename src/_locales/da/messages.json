@@ -1184,6 +1184,15 @@
 	"langCode_zh": {
 		"message": "Kinesisk"
 	},
+	"langCode_zh_CN": {
+		"message": "Kinesisk (forenklet)"
+	},
+	"langCode_zh_HK": {
+		"message": "Kinesisk (Hong Kong)"
+	},
+	"langCode_zh_TW": {
+		"message": "Kinesisk (traditionelt)"
+	},
 	"langCode_zu": {
 		"message": "Zulu"
 	}

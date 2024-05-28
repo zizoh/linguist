@@ -1,4 +1,4 @@
-import { isLanguageCodeISO639v1 } from '@translate-tools/core/languages';
+import { isLanguageCodeISO639v1OrChinese } from '@translate-tools/core/languages';
 import {
 	IScheduler,
 	Scheduler,
@@ -39,7 +39,7 @@ export class TranslatorManager<Translators extends TranslatorsMap = TranslatorsM
 		return {
 			supportedLanguages: translatorClass
 				.getSupportedLanguages()
-				.filter((lang) => isLanguageCodeISO639v1(lang)),
+				.filter((lang) => isLanguageCodeISO639v1OrChinese(lang)),
 			isSupportAutodetect: translatorClass.isSupportedAutoFrom(),
 		};
 	}
